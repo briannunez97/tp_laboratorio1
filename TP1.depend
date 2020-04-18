@@ -1,0 +1,10 @@
+# depslib dependency file v1.0
+1587249595 source:c:\users\brian\documents\tp1\funcionesbn.c
+
+1587249301 source:c:\users\brian\documents\tp1\main.c
+	<stdio.h>
+	<stdlib.h>
+	"funcionesbn.h"
+
+1587249081 c:\users\brian\documents\tp1\funcionesbn.h
+
